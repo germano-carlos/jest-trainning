@@ -1,0 +1,24 @@
+{
+  "name": "jest-trainning",
+  "version": "1.0.0",
+  "description": "Repository for training application with jest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germano-carlos/jest-trainning.git"
+  },
+  "author": "Carlos Germano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germano-carlos/jest-trainning/issues"
+  },
+  "homepage": "https://github.com/germano-carlos/jest-trainning#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "typescript": "^4.6.2"
+  }
+}
