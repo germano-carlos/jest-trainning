@@ -99,7 +99,7 @@ describe('complex operations', () => {
         expect(multiple(division(c, b), a)).toBe(2)
     })
 
-    it("Multiple + Division has to return 6, because 2*6 is 6 and 6/1 is 6 ", () => {
+    it("Multiple + Division has to return 6, because 2*3 is 6 and 6/1 is 6 ", () => {
         let a = 1
         let b = 2
         let c = 3

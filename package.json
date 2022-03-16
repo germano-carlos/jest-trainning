@@ -20,12 +20,13 @@
   },
   "homepage": "https://github.com/germano-carlos/jest-trainning#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/mocha": "^9.1.0",
     "jest": "^27.0.6",
     "ts-jest": "^27.0.3",
     "ts-node": "^10.0.0",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.6.2",
-    "@types/jest": "^26.0.23"
+    "typescript": "^4.6.2"
   },
   "jest": {
     "preset": "ts-jest",
