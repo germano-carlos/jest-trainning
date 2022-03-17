@@ -7,7 +7,9 @@
   "scripts": {
     "dev": "ts-node-dev --inspect --ignore-watch node_modules index.ts",
     "start": "node index.ts",
-    "test": "jest"
+    "test": "jest",
+    "test-coverage-2": "jest --coverage --coverageReporters=json-summary",
+    "test-coverage-1": "jest --coverage"
   },
   "repository": {
     "type": "git",
